@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${userHome}/.arduino15/packages/esp8266/**",
+                "${userHome}/Arduino/libraries/**"
+            ]
+        }
+    ],
+    "version": 4
+}
