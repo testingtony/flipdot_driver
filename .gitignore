@@ -1,3 +1,4 @@
 build/
 *.key
 item.yml
+hosts.cpp
